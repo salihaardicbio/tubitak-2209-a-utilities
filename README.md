@@ -1,2 +1,2 @@
 # tubitak-2209-a-utilities
-Diverse bioinformatics utility scripts for special purposes
+TÜBİTAK 2209-A projesi için geliştirilen çeşitli biyoinformatik yardımcı araçları.
